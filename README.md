@@ -41,12 +41,13 @@ The analysis answers critical business questions:
 - Monthly revenue trends.
 
   <p align="center">
-  <img src="screenshots/picture_1.png" width="45%" />
-  <img src="screenshots/picture_2.png" width="45%" />
-  <img src="screenshots/picture_3.png" width="45%" />
-  <img src="screenshots/picture_4.png" width="45%" />
-  <img src="screenshots/picture_5.png" width="45%" />
-   <img src="screenshots/picture_6.png" width="45%" />
+  <img src="screenshots/picture1.png" width="45%" />
+  <img src="screenshots/picture2.png" width="45%" />
+  <img src="screenshots/picture3.png" width="45%" />
+  <img src="screenshots/picture4.png" width="45%" />
+  <img src="screenshots/picture5.png" width="45%" />
+  <img src="screenshots/picture6.png" width="45%" />
+   <img src="screenshots/picture01.png" width="45%" />
 </p>
 
 ## 🚀 How to Run
